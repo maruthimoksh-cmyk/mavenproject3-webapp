@@ -14,7 +14,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <!-- Basic building block for Spring that in conjunction with Spring Beans provides dependency injection and IoC features. -->
+    <!-- Basic building block for Spring that in conjunction with Spring Beans provides dependency injection and IoC features 7.0.2 -->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
